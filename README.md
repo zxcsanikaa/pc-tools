@@ -75,4 +75,4 @@ python3 linux-tools.py
 
 --- 
 
-**✨ P.S.** Если вам нравится проект, поставьте ⭐ на [GitHub](https://github.com/ваш-репозиторий)!
+**✨ P.S.** Если вам нравится проект, поставьте ⭐ на [GitHub](https://github.com/zxcsanikaa/pc-tools)!
