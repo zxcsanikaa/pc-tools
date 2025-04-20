@@ -30,11 +30,11 @@ pip install colorama psutil
 ### **3. Запуск**  
 #### **Для Windows:**  
 ```bash
-python pc_tools.py
+python windows-tools.py
 ```
 #### **Для Linux:**  
 ```bash
-python3 pc_tools_linux.py
+python3 linux-tools.py
 ```
 
 ---
